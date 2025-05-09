@@ -1,4 +1,3 @@
 # Intenship-images-object-classification
 
-link:[Object_classification](C:\Users\Shakina Sharon\Downloads\Images_object_classification.zip)
-C:\Users\Shakina SharonC
+link:[Object_classification]
